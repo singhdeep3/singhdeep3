@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Final year B.tech student .<br>Want to learn more about development and DSA.<br>Seek help from senior developers(but they don't). <br>Currently learn about MERN Stack.<br>Ask me nothing please.<br>A lazy bird, Shoebill.
+Final year B.tech student .<br>Want to learn more about development and DSA.<br>Seek help from senior developers(but they don't want to do so). <br>Currently learn about MERN Stack..
 
 
 ## 🌐 Socials:
